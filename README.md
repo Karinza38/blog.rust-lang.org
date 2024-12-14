@@ -1,4 +1,4 @@
-# The Rust blog
+The Rust blog
 
 [![CI](https://github.com/rust-lang/blog.rust-lang.org/actions/workflows/main.yml/badge.svg)](https://github.com/rust-lang/blog.rust-lang.org/actions/workflows/main.yml)
 
